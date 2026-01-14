@@ -89,10 +89,10 @@ export default function HomePage() {
       <footer>
         <div className="mt-8 py-5 border-t bg-gray-900 text-sm border-gray-200  text-center text-gray-400 px-5 tracking-tight ">
           <p>
-            © 2024 PingNotify. All rights reserved.
+            © 2026 PingNotify. All rights reserved.
             <br />
-           <MessagesSquare className="inline-block h-4 w-4"/> Feedback <Link href="https://x.com/madethecreator" target="_blank" rel="noopener noreferrer">
-              @madethecreator
+           <MessagesSquare className="inline-block h-4 w-4"/> Feedback <Link href="" target="_blank" rel="noopener noreferrer">
+              @sannnforums
             </Link>
           </p> 
         </div>
